@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="72" moduleid="3018" modulename="url" contextid="9514">
+  <url id="72">
+    <name>Course Survey</name>
+    <intro>&lt;p&gt;&lt;span style="font-size: 13px; line-height: 1.231;"&gt;We appreciate you filling out this short survey. Most of the questions only require you to click on an answer, but there is room for your comments at the end.&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <externalurl>http://s-4019c7-i.sgizmo.com/s3/i-100000259-840919</externalurl>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <parameters>a:0:{}</parameters>
+    <timemodified>1427784510</timemodified>
+  </url>
+</activity>

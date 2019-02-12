@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<roles>
+  <role_overrides>
+    <override id="1009">
+      <roleid>5</roleid>
+      <capability>moodle/course:viewhiddencourses</capability>
+      <permission>-1</permission>
+      <timemodified>1370287400</timemodified>
+      <modifierid>5</modifierid>
+    </override>
+    <override id="1010">
+      <roleid>5</roleid>
+      <capability>moodle/course:viewparticipants</capability>
+      <permission>-1</permission>
+      <timemodified>1373636947</timemodified>
+      <modifierid>5</modifierid>
+    </override>
+  </role_overrides>
+  <role_assignments>
+  </role_assignments>
+</roles>
