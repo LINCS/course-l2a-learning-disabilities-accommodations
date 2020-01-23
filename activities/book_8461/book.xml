@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="198" moduleid="8461" modulename="book" contextid="35842">
+  <book id="198">
+    <name>Introduction</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <numbering>1</numbering>
+    <navstyle>1</navstyle>
+    <customtitles>0</customtitles>
+    <timecreated>1550863059</timecreated>
+    <timemodified>1550863059</timemodified>
+    <chapters>
+      <chapter id="1326">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Welcome to this LINCS Course</title>
+        <content>&lt;p&gt;&lt;/p&gt;&lt;p&gt;Welcome to the &lt;i&gt;Learning
+Disabilities and Accommodations&lt;/i&gt; course, a research-based training on
+serving adults with learning disabilities (LD). This program is brought to you
+by Literacy Information and Communication System (LINCS).&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;h4&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Disclaimer&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/h4&gt;This course was updated and funded in whole with Federal
+funds from the U.S. Department of Education under the LINCS Resource Collection
+contract number ED-ESE-15-A-0012/0003 with Manhattan Strategy Group. Monique
+Faulkner served as the contracting officer’s representative. This course was
+originally developed with federal funds from the National Institutes for
+Literacy. The content of this course does not necessarily reflect the views or
+policies of the U.S. Department of Education nor does the mention of trade
+names, commercial products, or organizations imply endorsement by the U.S.
+Government.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1551207514</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1327">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Join the LINCS Community and participate in discussions</title>
+        <content>&lt;p&gt;&lt;p&gt;This course is designed for teachers of adult learners
+with LD. As with all LINCS courses, this course includes opportunities to
+connect with other adult education practitioners interested in providing
+appropriate accommodations for adult learners with learning disabilities (LD).
+If you haven’t already done so, take a moment to register as a member of the&amp;nbsp;&lt;a href="https://community.lincs.ed.gov/" target="_blank"&gt;LINCS
+Community&lt;/a&gt;&amp;nbsp;and participate in the discussions
+embedded throughout this course. The discussions provide an open forum to share
+your thoughts, ideas, and questions with other adult education practitioners.&lt;/p&gt;
+
+&lt;p&gt;Throughout this course, you will have the opportunity to
+share your stories and insights as you learn about the various accommodations
+appropriate for adult learners with LD. This is a great opportunity to share
+and learn from others. We encourage you to participate!&lt;/p&gt;&lt;br&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1550863215</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1328">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Overview and objectives</title>
+        <content>&lt;p&gt;&lt;/p&gt;&lt;p&gt;In this course, we will describe and explore accommodations
+that instructors of adult learners with learning disabilities may provide their
+students to ensure equal access to educational services and resources. Let's
+start by reviewing the learning goals of this lesson.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name="_Hlk528755193"&gt;Upon completion of this course,
+you will be able to:&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;!--[endif]--&gt;define accommodations;&lt;/li&gt;&lt;li&gt;identify different types of accommodations;&lt;/li&gt;&lt;li&gt;describe how to access accommodations, and:&lt;/li&gt;&lt;li&gt;understand the importance of Universal Design.&lt;/li&gt;&lt;/ul&gt;&lt;!--[if !supportLists]--&gt;&lt;p&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+&lt;p&gt;Please allow approximately 1 hour to complete this course.
+However, you are free to leave the session at any time. When you exit the
+courseware, a bookmark is automatically placed at your last location to allow
+you to pick up where you left off when you return.&lt;/p&gt;
+
+&lt;h4&gt;&lt;span&gt;Navigation &lt;/span&gt;&lt;/h4&gt;
+
+&lt;p&gt;The course is divided up into several sections:
+understanding accommodations; accessing accommodations through
+self-determination, self-disclosure, and self-advocacy; and universal design. Navigate
+through the course by using the forward arrows available on each page.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1551207555</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1329">
+        <pagenum>4</pagenum>
+        <subchapter>0</subchapter>
+        <title>Scenario-based instruction</title>
+        <content>&lt;p&gt;&lt;p&gt;Throughout this course, you will be presented with scenarios
+of individuals who may need accommodations to perform better in a given
+learning environment. These scenarios are designed to help you understand how
+accommodations work in real life situations. &lt;/p&gt;
+
+&lt;p&gt;After you read each scenario, review the questions that
+follow and select the best response. But before we explore the scenarios, we
+will first define and describe the term &lt;b&gt;accommodations&lt;/b&gt;.&lt;/p&gt;&lt;br&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1550863712</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+    <chaptertags>
+    </chaptertags>
+  </book>
+</activity>

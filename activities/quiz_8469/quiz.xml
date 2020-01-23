@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="134" moduleid="8469" modulename="quiz" contextid="35850">
+  <quiz id="134">
+    <name>Accommodations Quiz</name>
+    <intro>&lt;p&gt;&lt;/p&gt;&lt;p&gt;This course has explored accommodations for
+adults with LD.&lt;br&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;p&gt;Specifically, the course:&lt;/p&gt;
+
+&lt;p&gt;&lt;ul&gt;&lt;li&gt;defined, reviewed, and applied the four main
+types of accommodations:&lt;/li&gt;&lt;ul&gt;&lt;li&gt;presentation accommodations, which alter the way
+information is presented.&lt;/li&gt;&lt;li&gt;response accommodations, which alter the way in
+which assignments or tests are completed.&lt;/li&gt;&lt;li&gt;scheduling or timing accommodations, which alter
+the amount of time or the way the time is distributed in which a student may
+complete a task.&lt;/li&gt;&lt;li&gt;setting accommodations, which alter the
+environment.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;described how to access accommodations; and&lt;/li&gt;&lt;li&gt;described the role of universal design in
+providing accommodations.&lt;/li&gt;&lt;/ul&gt;&lt;!--[if !supportLists]--&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;/p&gt;&lt;p&gt;This quiz will review the course content. Select the
+correct answer choice for each question.&amp;nbsp;
+&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timelimit>0</timelimit>
+    <overduehandling>autoabandon</overduehandling>
+    <graceperiod>0</graceperiod>
+    <preferredbehaviour>immediatefeedback</preferredbehaviour>
+    <canredoquestions>0</canredoquestions>
+    <attempts_number>0</attempts_number>
+    <attemptonlast>0</attemptonlast>
+    <grademethod>1</grademethod>
+    <decimalpoints>0</decimalpoints>
+    <questiondecimalpoints>-1</questiondecimalpoints>
+    <reviewattempt>69888</reviewattempt>
+    <reviewcorrectness>69888</reviewcorrectness>
+    <reviewmarks>69888</reviewmarks>
+    <reviewspecificfeedback>69888</reviewspecificfeedback>
+    <reviewgeneralfeedback>69888</reviewgeneralfeedback>
+    <reviewrightanswer>69888</reviewrightanswer>
+    <reviewoverallfeedback>4352</reviewoverallfeedback>
+    <questionsperpage>1</questionsperpage>
+    <navmethod>free</navmethod>
+    <shuffleanswers>0</shuffleanswers>
+    <sumgrades>6.00000</sumgrades>
+    <grade>10.00000</grade>
+    <timecreated>0</timecreated>
+    <timemodified>1551125511</timemodified>
+    <password></password>
+    <subnet></subnet>
+    <browsersecurity>-</browsersecurity>
+    <delay1>0</delay1>
+    <delay2>0</delay2>
+    <showuserpicture>0</showuserpicture>
+    <showblocks>0</showblocks>
+    <completionattemptsexhausted>1</completionattemptsexhausted>
+    <completionpass>1</completionpass>
+    <allowofflineattempts>0</allowofflineattempts>
+    <question_instances>
+      <question_instance id="941">
+        <slot>1</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2355</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="942">
+        <slot>2</slot>
+        <page>2</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2356</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="943">
+        <slot>3</slot>
+        <page>3</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2357</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="944">
+        <slot>4</slot>
+        <page>4</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2358</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="945">
+        <slot>5</slot>
+        <page>5</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2359</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="946">
+        <slot>6</slot>
+        <page>6</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2360</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+    </question_instances>
+    <sections>
+      <section id="103">
+        <firstslot>1</firstslot>
+        <heading></heading>
+        <shufflequestions>0</shufflequestions>
+      </section>
+    </sections>
+    <feedbacks>
+      <feedback id="180">
+        <feedbacktext></feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>0.00000</mingrade>
+        <maxgrade>11.00000</maxgrade>
+      </feedback>
+    </feedbacks>
+    <overrides>
+    </overrides>
+    <grades>
+    </grades>
+    <attempts>
+    </attempts>
+  </quiz>
+</activity>

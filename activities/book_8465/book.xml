@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="202" moduleid="8465" modulename="book" contextid="35846">
+  <book id="202">
+    <name>Scheduling/Timing Accommodations</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <numbering>1</numbering>
+    <navstyle>1</navstyle>
+    <customtitles>0</customtitles>
+    <timecreated>1551113239</timecreated>
+    <timemodified>1551113239</timemodified>
+    <chapters>
+      <chapter id="1351">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Three methods for scheduling/timing accommodations</title>
+        <content>&lt;p&gt;&lt;/p&gt;&lt;p&gt;The third accommodation we will
+discuss is scheduling and timing. These accommodations refer to adjustments in
+the time or schedule for a student to complete an assignment or test. There are
+three main methods that can be used.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Time adjustments, which may include changes to
+the allowable length of time to complete assignments, tests, and activities,
+changes to the particular time of day, day of the week, or even the number of
+days over which a particular activity takes place;&lt;/li&gt;&lt;li&gt;Break adjustments that allow students to take
+breaks at their own discretion or at predetermined intervals or between
+activities, perhaps using a timer to signal the end of the break, or &lt;/li&gt;&lt;li&gt;Segmented work adjustments, which refer to
+dividing up an exam or project into parts over an extended period to prevent
+fatigue or maintain the student's focus.&lt;/li&gt;&lt;/ol&gt;&lt;!--[if !supportLists]--&gt;&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1551241177</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1352">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>What can scheduling and timing accommodations look like? </title>
+        <content>&lt;p&gt;&lt;/p&gt;&lt;p&gt;Timing and scheduling accommodations can include changes in:&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The amount of time allowed for testing (e.g., allowing a student 110 minutes to complete a test rather than 90 minutes);&lt;/li&gt;&lt;li&gt;The amount of time allowed for breaks (e.g., providing a 30 minute break rather than a 15 minute break);&amp;nbsp;&lt;/li&gt;&lt;li&gt;The number of breaks (e.g., allowing for breaks after each section of a test rather than one break or no breaks);&amp;nbsp;&lt;/li&gt;&lt;li&gt;The way in which the testing time is organized (e.g., scheduling testing at a particular time of day or over multiple days).&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;A range of adult learners with disabilities may benefit from these types of scheduling and timing accommodations. The chart below describes some of the types of students who could benefit.&lt;/p&gt;&lt;table&gt;&lt;caption&gt;Types of students who could benefit from scheduling and timing accommodations&lt;/caption&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style="border: 1px solid gray;" scope="col"&gt;Accommodation Example&lt;/th&gt;&lt;th style="border: 1px solid gray;" scope="col"&gt;Accommodation Description&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="border: 1px solid gray;"&gt;&lt;b&gt;Extended Testing Time&lt;/b&gt;&lt;/td&gt;&lt;td style="border: 1px solid gray;"&gt;Some students may benefit from extended testing time. For example, if their disability requires them to use assistive technologies, if their disability causes them to process information slowly, if their disability or a medical condition causes them to write slowly (e.g., arthritis).&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="border: 1px solid gray;"&gt;&lt;b&gt;Breaks&lt;/b&gt;&lt;/td&gt;&lt;td style="border: 1px solid gray;"&gt;Some students may benefit from additional or longer breaks. For example, a student with diabetes may need an extra break to have a snack in order to keep blood sugar at optimal levels. Or, a student with a physical disability may need a longer break in order to accomplish any break activities such as visiting the restroom or getting a drink of water.&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="border: 1px solid gray;"&gt;&lt;b&gt;&amp;nbsp;Scheduling&lt;/b&gt;&lt;/td&gt;&lt;td style="border: 1px solid gray;"&gt;Some students may benefit from testing at a particular time of day. For example, a student who concentrates better in the morning may benefit from a morning exam time. An all-day test could be broken into two days. Students may also have health conditions that may require scheduling accommodations. For example, a student who takes medication may be need to schedule the test around that.&amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;
+&lt;/p&gt;&lt;table&gt;
+&lt;caption&gt;Examples of scheduling and timing accommodations&lt;/caption&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="border: 1px solid gray;" scope="col"&gt;&lt;/th&gt;
+&lt;th style="border: 1px solid gray;" scope="col"&gt;Standard Administration&lt;/th&gt;
+&lt;th style="border: 1px solid gray;" scope="col"&gt;Modified Administration&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th style="border: 1px solid gray;" scope="row"&gt;&lt;b&gt;Number of testing days&lt;/b&gt;&lt;/th&gt;
+&lt;td style="border: 1px solid gray;"&gt;1 day&lt;/td&gt;
+&lt;td style="border: 1px solid gray;"&gt;2 days&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th style="border: 1px solid gray;" scope="row"&gt;&lt;b&gt;Time of testing&lt;/b&gt;&lt;/th&gt;
+&lt;td style="border: 1px solid gray;"&gt;90 minutes&lt;/td&gt;
+&lt;td style="border: 1px solid gray;"&gt;55 minutes per day&lt;/td&gt;
+&lt;/tr&gt;&lt;tr&gt;
+&lt;th style="border: 1px solid gray;" scope="row"&gt;&lt;b&gt;&amp;nbsp;Frequency of breaks&lt;/b&gt;&lt;/th&gt;
+&lt;td style="border: 1px solid gray;"&gt;&amp;nbsp;No breaks&lt;/td&gt;
+&lt;td style="border: 1px solid gray;"&gt;&amp;nbsp;A break after 30 minutes&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1551241714</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1353">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Does Juan need accommodations?</title>
+        <content>&lt;p&gt;&lt;/p&gt;&lt;p&gt;Here's a student scenario. After you read the scenario,
+determine whether Juan needs accommodations. &lt;/p&gt;&lt;p&gt;&lt;img src="@@PLUGINFILE@@/juan.png" alt="Juan, a young Hispanic man" width="154" height="216" class="img-responsive atto_image_button_right"&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;div&gt;
+
+&lt;h4&gt;&lt;span&gt;Juan&lt;/span&gt;&lt;/h4&gt;
+
+&lt;p&gt;Juan is a twenty-three year old
+Hispanic student who is taking adult basic education (ABE) math courses.&amp;nbsp; He wants to improve his scores on the math
+section of an employment test needed to advance in his job. The ABE teacher is
+concerned that Juan might be experiencing learning disabilities that are interfering
+with his ability to perform within the average range on mathematics tests. Both
+his reading decoding skills and reading fluency abilities appear to be
+negatively impacting his performance on math tests.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h5&gt;&lt;b&gt;Based on the
+information provided, does Juan appear to need accommodations?&lt;/b&gt;&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;ol type="a"&gt;&lt;li&gt;Yes&lt;/li&gt;&lt;li&gt;No&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;When you have decided on your answer, click the &lt;b&gt;forward arrow&lt;/b&gt; for the correct answer and the next question.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1551290449</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1354">
+        <pagenum>4</pagenum>
+        <subchapter>1</subchapter>
+        <title>Qualification</title>
+        <content>&lt;p&gt;&lt;/p&gt;&lt;p&gt;Based on the information provided, Juan &lt;b&gt;may need accommodations&lt;/b&gt;.&amp;nbsp;&lt;img src="@@PLUGINFILE@@/juan.png" alt="Juan, a young Hispanic man" width="154" height="216" class="img-responsive atto_image_button_right"&gt;&lt;/p&gt;
+
+&lt;div&gt;
+
+&lt;h5&gt;&lt;span&gt;Juan&lt;/span&gt;&lt;/h5&gt;
+
+&lt;p&gt;Juan is a twenty-three year old
+Hispanic student who is taking ABE math courses. He wants to improve his scores
+on the math section of an employment test needed to advance in his job. The ABE
+teacher is concerned that Juan might be experiencing learning disabilities that
+are interfering with his ability to perform within the average range on
+mathematics tests. Both his reading decoding skills and reading fluency
+abilities appear to be negatively impacting his performance on math tests.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h5&gt;&lt;span&gt;&lt;b&gt;On what basis would you determine Juan may need accommodations?&lt;/b&gt;&lt;/span&gt;&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;ol type="a"&gt;&lt;li&gt;Low reading decoding skills&lt;/li&gt;&lt;li&gt;Low reading fluency abilities&lt;/li&gt;&lt;li&gt;Poor performance on math tests&lt;/li&gt;&lt;li&gt;All of the above&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p&gt;When you have decided on your answer, click the &lt;b&gt;forward arrow&lt;/b&gt; for the correct answer
+and the next question.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1551290524</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1355">
+        <pagenum>5</pagenum>
+        <subchapter>1</subchapter>
+        <title>Basis for qualification</title>
+        <content>&lt;p&gt;&lt;/p&gt;&lt;p&gt;Juan may need accommodations based on &lt;b&gt;low reading decoding skills, low reading fluency abilities, and poor
+performance on math tests&lt;/b&gt;. &lt;/p&gt;&lt;p&gt;&lt;img src="@@PLUGINFILE@@/juan.png" alt="Juan, a young Hispanic man" width="154" height="216" class="img-responsive atto_image_button_right"&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;div&gt;
+
+&lt;h5&gt;&lt;span&gt;Juan&lt;/span&gt;&lt;/h5&gt;
+
+&lt;p&gt;Juan is a twenty-three year old
+Hispanic student who is taking &amp;nbsp;ABE math
+courses. He wants to improve his scores on the math section of an employment
+test needed to advance in his job. The ABE teacher is concerned that Juan might
+be experiencing learning disabilities that are interfering with his ability to
+perform within the average range on mathematics tests. Both his reading
+decoding skills and reading fluency abilities appear to be negatively impacting
+his performance on math tests.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h5&gt;&lt;b&gt;What scheduling/timing accommodations would you choose for Juan?&lt;/b&gt;&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;ol type="a"&gt;&lt;li&gt;Extra time to complete the test&lt;/li&gt;&lt;li&gt;Reducing the verbal instructions on the test&lt;/li&gt;&lt;li&gt;Using a Calculator&lt;/li&gt;&lt;li&gt;Assigning a reader to assist during test-taking&lt;/li&gt;&lt;li&gt;All of the above&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+&lt;p&gt;When you have decided on your answer, click the &lt;b&gt;forward arrow&lt;/b&gt; for the correct answer.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1551290571</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1356">
+        <pagenum>6</pagenum>
+        <subchapter>1</subchapter>
+        <title>Potential accommodations</title>
+        <content>&lt;p&gt;&lt;/p&gt;&lt;p&gt;Scheduling/Timing accommodations for Juan may include
+extra time to complete math tests; reducing the verbal instructions on math
+tests; using a calculator; and using a reader to help Juan understand the math
+requirements on tasks. &lt;/p&gt;&lt;p&gt;&lt;img src="@@PLUGINFILE@@/juan.png" alt="Juan, a young Hispanic man" width="154" height="216" class="img-responsive atto_image_button_right"&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;div&gt;
+
+&lt;h5&gt;&lt;span&gt;Juan&lt;/span&gt;&lt;/h5&gt;
+
+&lt;p&gt;Juan is a twenty-three year old
+Hispanic student who is taking ABE math courses. He wants to improve his scores
+on the math section of an employment test needed to advance in his job. The ABE
+teacher is concerned that Juan might be experiencing learning disabilities that
+are interfering with his ability to perform within the average range on
+mathematics tests. Both his reading decoding skills and reading fluency
+abilities appear to be negatively impacting his performance on math tests.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;The four most commonly suggested accommodations for math
+disorders are extra time, calculators, read alouds, and graphic organizers
+(Gregg, 2009). As with the previous adults presented throughout this course,
+individuals with LD often experience difficulty quickly processing literacy
+tasks, such as mathematics symbols. Therefore, extra time on math tests for
+someone like Juan is an appropriate accommodation. Many of the same underlying
+processing deficits that interfere with an adult's ability to spell words also
+impact their ability to write numbers. It may also be beneficial for Juan
+include the ability to utilize a calculator, which is a non-scheduling/timing
+accommodation that nonetheless may improve Juan’s ability to complete tasks
+within a timeframe. A calculator will enable him to access the symbols quickly
+and accurately during a math problem. The use of read alouds (text-to-speech or
+a reader) also allow Juan, a poor reader, to access the math problems.&amp;nbsp; Read alouds are commonly used accommodations
+on many high stakes math tests. &lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1551216094</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+    <chaptertags>
+    </chaptertags>
+  </book>
+</activity>

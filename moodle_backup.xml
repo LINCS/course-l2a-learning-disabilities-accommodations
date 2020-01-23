@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <moodle_backup>
   <information>
-    <name>backup.mbz</name>
-    <moodle_version>2013111811.01</moodle_version>
-    <moodle_release>2.6.11+ (Build: 20150619)</moodle_release>
-    <backup_version>2013111800</backup_version>
-    <backup_release>2.6</backup_release>
-    <backup_date>1465545847</backup_date>
+    <name>backup-moodle2-course-238-l2a_accommodations-20200123-1823-nu.mbz</name>
+    <moodle_version>2018051703</moodle_version>
+    <moodle_release>3.5.3 (Build: 20181112)</moodle_release>
+    <backup_version>2018051400</backup_version>
+    <backup_release>3.5</backup_release>
+    <backup_date>1579821824</backup_date>
     <mnet_remoteusers>0</mnet_remoteusers>
     <include_files>1</include_files>
     <include_file_references_to_external_content>0</include_file_references_to_external_content>
-    <original_wwwroot>https://courses.lincs.ed.gov/1</original_wwwroot>
+    <original_wwwroot>https://courses.lincs.ed.gov</original_wwwroot>
     <original_site_identifier_hash>f13283a315401883a27f6a6b6a964b67</original_site_identifier_hash>
-    <original_course_id>3</original_course_id>
+    <original_course_id>238</original_course_id>
+    <original_course_format>topcoll</original_course_format>
     <original_course_fullname>L2A: Learning Disabilities and Accommodations</original_course_fullname>
-    <original_course_shortname>L2A: Disabilities and Accommodations </original_course_shortname>
-    <original_course_startdate>1367640000</original_course_startdate>
-    <original_course_contextid>28</original_course_contextid>
+    <original_course_shortname>L2A: Accommodations</original_course_shortname>
+    <original_course_startdate>1565755200</original_course_startdate>
+    <original_course_enddate>0</original_course_enddate>
+    <original_course_contextid>35836</original_course_contextid>
     <original_system_contextid>1</original_system_contextid>
     <details>
-      <detail backup_id="367e134cd6ff0559cb8db4b30bb19bfa">
+      <detail backup_id="66d5ddc3a279f114763dae89f520a4ff">
         <type>course</type>
         <format>moodle2</format>
         <interactive>1</interactive>
@@ -31,57 +33,105 @@
     <contents>
       <activities>
         <activity>
-          <moduleid>4</moduleid>
-          <sectionid>17</sectionid>
-          <modulename>scorm</modulename>
-          <title>Launch the Learning to Achieve Accommodations Training Module</title>
-          <directory>activities/scorm_4</directory>
+          <moduleid>8460</moduleid>
+          <sectionid>2379</sectionid>
+          <modulename>forum</modulename>
+          <title>Announcements</title>
+          <directory>activities/forum_8460</directory>
         </activity>
         <activity>
-          <moduleid>3018</moduleid>
-          <sectionid>17</sectionid>
-          <modulename>url</modulename>
-          <title>Course Survey</title>
-          <directory>activities/url_3018</directory>
+          <moduleid>8461</moduleid>
+          <sectionid>2380</sectionid>
+          <modulename>book</modulename>
+          <title>Introduction</title>
+          <directory>activities/book_8461</directory>
         </activity>
         <activity>
-          <moduleid>46</moduleid>
-          <sectionid>17</sectionid>
+          <moduleid>8462</moduleid>
+          <sectionid>2380</sectionid>
+          <modulename>book</modulename>
+          <title>Understanding Accommodations</title>
+          <directory>activities/book_8462</directory>
+        </activity>
+        <activity>
+          <moduleid>8463</moduleid>
+          <sectionid>2380</sectionid>
+          <modulename>book</modulename>
+          <title>Presentation Accommodations</title>
+          <directory>activities/book_8463</directory>
+        </activity>
+        <activity>
+          <moduleid>8464</moduleid>
+          <sectionid>2380</sectionid>
+          <modulename>book</modulename>
+          <title>Response Accommodations</title>
+          <directory>activities/book_8464</directory>
+        </activity>
+        <activity>
+          <moduleid>8465</moduleid>
+          <sectionid>2380</sectionid>
+          <modulename>book</modulename>
+          <title>Scheduling/Timing Accommodations</title>
+          <directory>activities/book_8465</directory>
+        </activity>
+        <activity>
+          <moduleid>8466</moduleid>
+          <sectionid>2380</sectionid>
+          <modulename>book</modulename>
+          <title>Setting Accommodations</title>
+          <directory>activities/book_8466</directory>
+        </activity>
+        <activity>
+          <moduleid>8467</moduleid>
+          <sectionid>2380</sectionid>
+          <modulename>book</modulename>
+          <title>Accessing Accommodations</title>
+          <directory>activities/book_8467</directory>
+        </activity>
+        <activity>
+          <moduleid>8468</moduleid>
+          <sectionid>2380</sectionid>
+          <modulename>book</modulename>
+          <title>Universal Design</title>
+          <directory>activities/book_8468</directory>
+        </activity>
+        <activity>
+          <moduleid>8469</moduleid>
+          <sectionid>2380</sectionid>
+          <modulename>quiz</modulename>
+          <title>Accommodations Quiz</title>
+          <directory>activities/quiz_8469</directory>
+        </activity>
+        <activity>
+          <moduleid>8470</moduleid>
+          <sectionid>2380</sectionid>
+          <modulename>book</modulename>
+          <title>Conclusion</title>
+          <directory>activities/book_8470</directory>
+        </activity>
+        <activity>
+          <moduleid>8472</moduleid>
+          <sectionid>2380</sectionid>
           <modulename>certificate</modulename>
-          <title>Certiticate of Completion - L2A Accommodations Training</title>
-          <directory>activities/certificate_46</directory>
+          <title>L2A: Learning Disabilities and Accommodations Certificate of Completion</title>
+          <directory>activities/certificate_8472</directory>
         </activity>
       </activities>
       <sections>
         <section>
-          <sectionid>13</sectionid>
+          <sectionid>2379</sectionid>
           <title>0</title>
-          <directory>sections/section_13</directory>
+          <directory>sections/section_2379</directory>
         </section>
         <section>
-          <sectionid>17</sectionid>
-          <title>Learning to Achieve Accommodations Training</title>
-          <directory>sections/section_17</directory>
-        </section>
-        <section>
-          <sectionid>18</sectionid>
-          <title>Survey</title>
-          <directory>sections/section_18</directory>
-        </section>
-        <section>
-          <sectionid>19</sectionid>
-          <title>3</title>
-          <directory>sections/section_19</directory>
-        </section>
-        <section>
-          <sectionid>20</sectionid>
-          <title>4</title>
-          <directory>sections/section_20</directory>
+          <sectionid>2380</sectionid>
+          <title>Learning to Achieve: Accommodations</title>
+          <directory>sections/section_2380</directory>
         </section>
       </sections>
       <course>
-        <courseid>3</courseid>
-        <title>L2A: Disabilities and Accommodations </title>
+        <courseid>238</courseid>
+        <title>L2A: Accommodations</title>
         <directory>course</directory>
       </course>
     </contents>
@@ -89,7 +139,7 @@
       <setting>
         <level>root</level>
         <name>filename</name>
-        <value>backup.mbz</value>
+        <value>backup-moodle2-course-238-l2a_accommodations-20200123-1823-nu.mbz</value>
       </setting>
       <setting>
         <level>root</level>
@@ -104,7 +154,7 @@
       <setting>
         <level>root</level>
         <name>anonymize</name>
-        <value>1</value>
+        <value>0</value>
       </setting>
       <setting>
         <level>root</level>
@@ -124,7 +174,7 @@
       <setting>
         <level>root</level>
         <name>filters</name>
-        <value>0</value>
+        <value>1</value>
       </setting>
       <setting>
         <level>root</level>
@@ -139,7 +189,7 @@
       <setting>
         <level>root</level>
         <name>calendarevents</name>
-        <value>0</value>
+        <value>1</value>
       </setting>
       <setting>
         <level>root</level>
@@ -162,99 +212,181 @@
         <value>1</value>
       </setting>
       <setting>
-        <level>section</level>
-        <section>section_13</section>
-        <name>section_13_included</name>
+        <level>root</level>
+        <name>groups</name>
+        <value>1</value>
+      </setting>
+      <setting>
+        <level>root</level>
+        <name>competencies</name>
         <value>1</value>
       </setting>
       <setting>
         <level>section</level>
-        <section>section_13</section>
-        <name>section_13_userinfo</name>
-        <value>0</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_17</section>
-        <name>section_17_included</name>
+        <section>section_2379</section>
+        <name>section_2379_included</name>
         <value>1</value>
       </setting>
       <setting>
         <level>section</level>
-        <section>section_17</section>
-        <name>section_17_userinfo</name>
-        <value>0</value>
-      </setting>
-      <setting>
-        <level>activity</level>
-        <activity>scorm_4</activity>
-        <name>scorm_4_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>activity</level>
-        <activity>scorm_4</activity>
-        <name>scorm_4_userinfo</name>
+        <section>section_2379</section>
+        <name>section_2379_userinfo</name>
         <value>0</value>
       </setting>
       <setting>
         <level>activity</level>
-        <activity>url_3018</activity>
-        <name>url_3018_included</name>
+        <activity>forum_8460</activity>
+        <name>forum_8460_included</name>
         <value>1</value>
       </setting>
       <setting>
         <level>activity</level>
-        <activity>url_3018</activity>
-        <name>url_3018_userinfo</name>
+        <activity>forum_8460</activity>
+        <name>forum_8460_userinfo</name>
+        <value>0</value>
+      </setting>
+      <setting>
+        <level>section</level>
+        <section>section_2380</section>
+        <name>section_2380_included</name>
+        <value>1</value>
+      </setting>
+      <setting>
+        <level>section</level>
+        <section>section_2380</section>
+        <name>section_2380_userinfo</name>
         <value>0</value>
       </setting>
       <setting>
         <level>activity</level>
-        <activity>certificate_46</activity>
-        <name>certificate_46_included</name>
+        <activity>book_8461</activity>
+        <name>book_8461_included</name>
         <value>1</value>
       </setting>
       <setting>
         <level>activity</level>
-        <activity>certificate_46</activity>
-        <name>certificate_46_userinfo</name>
+        <activity>book_8461</activity>
+        <name>book_8461_userinfo</name>
         <value>0</value>
       </setting>
       <setting>
-        <level>section</level>
-        <section>section_18</section>
-        <name>section_18_included</name>
+        <level>activity</level>
+        <activity>book_8462</activity>
+        <name>book_8462_included</name>
         <value>1</value>
       </setting>
       <setting>
-        <level>section</level>
-        <section>section_18</section>
-        <name>section_18_userinfo</name>
+        <level>activity</level>
+        <activity>book_8462</activity>
+        <name>book_8462_userinfo</name>
         <value>0</value>
       </setting>
       <setting>
-        <level>section</level>
-        <section>section_19</section>
-        <name>section_19_included</name>
+        <level>activity</level>
+        <activity>book_8463</activity>
+        <name>book_8463_included</name>
         <value>1</value>
       </setting>
       <setting>
-        <level>section</level>
-        <section>section_19</section>
-        <name>section_19_userinfo</name>
+        <level>activity</level>
+        <activity>book_8463</activity>
+        <name>book_8463_userinfo</name>
         <value>0</value>
       </setting>
       <setting>
-        <level>section</level>
-        <section>section_20</section>
-        <name>section_20_included</name>
+        <level>activity</level>
+        <activity>book_8464</activity>
+        <name>book_8464_included</name>
         <value>1</value>
       </setting>
       <setting>
-        <level>section</level>
-        <section>section_20</section>
-        <name>section_20_userinfo</name>
+        <level>activity</level>
+        <activity>book_8464</activity>
+        <name>book_8464_userinfo</name>
+        <value>0</value>
+      </setting>
+      <setting>
+        <level>activity</level>
+        <activity>book_8465</activity>
+        <name>book_8465_included</name>
+        <value>1</value>
+      </setting>
+      <setting>
+        <level>activity</level>
+        <activity>book_8465</activity>
+        <name>book_8465_userinfo</name>
+        <value>0</value>
+      </setting>
+      <setting>
+        <level>activity</level>
+        <activity>book_8466</activity>
+        <name>book_8466_included</name>
+        <value>1</value>
+      </setting>
+      <setting>
+        <level>activity</level>
+        <activity>book_8466</activity>
+        <name>book_8466_userinfo</name>
+        <value>0</value>
+      </setting>
+      <setting>
+        <level>activity</level>
+        <activity>book_8467</activity>
+        <name>book_8467_included</name>
+        <value>1</value>
+      </setting>
+      <setting>
+        <level>activity</level>
+        <activity>book_8467</activity>
+        <name>book_8467_userinfo</name>
+        <value>0</value>
+      </setting>
+      <setting>
+        <level>activity</level>
+        <activity>book_8468</activity>
+        <name>book_8468_included</name>
+        <value>1</value>
+      </setting>
+      <setting>
+        <level>activity</level>
+        <activity>book_8468</activity>
+        <name>book_8468_userinfo</name>
+        <value>0</value>
+      </setting>
+      <setting>
+        <level>activity</level>
+        <activity>quiz_8469</activity>
+        <name>quiz_8469_included</name>
+        <value>1</value>
+      </setting>
+      <setting>
+        <level>activity</level>
+        <activity>quiz_8469</activity>
+        <name>quiz_8469_userinfo</name>
+        <value>0</value>
+      </setting>
+      <setting>
+        <level>activity</level>
+        <activity>book_8470</activity>
+        <name>book_8470_included</name>
+        <value>1</value>
+      </setting>
+      <setting>
+        <level>activity</level>
+        <activity>book_8470</activity>
+        <name>book_8470_userinfo</name>
+        <value>0</value>
+      </setting>
+      <setting>
+        <level>activity</level>
+        <activity>certificate_8472</activity>
+        <name>certificate_8472_included</name>
+        <value>1</value>
+      </setting>
+      <setting>
+        <level>activity</level>
+        <activity>certificate_8472</activity>
+        <name>certificate_8472_userinfo</name>
         <value>0</value>
       </setting>
     </settings>

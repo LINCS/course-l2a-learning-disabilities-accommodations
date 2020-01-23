@@ -1,3 +1,424 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <question_categories>
+  <question_category id="571">
+    <name>top</name>
+    <contextid>35836</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>238</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>courses.lincs.ed.gov+190809151544+hyY9sF</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="572">
+    <name>Default for Accommodations Quiz</name>
+    <contextid>35850</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>8469</contextinstanceid>
+    <info>The default category for questions shared in context 'Accommodations Quiz'.</info>
+    <infoformat>0</infoformat>
+    <stamp>lincs-moodle-dev.civicactions.net+190225180951+wd7tV5</stamp>
+    <parent>574</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="573">
+    <name>Default for L2A: Accommodations</name>
+    <contextid>35836</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>238</contextinstanceid>
+    <info>The default category for questions shared in context 'L2A: Accommodations'.</info>
+    <infoformat>0</infoformat>
+    <stamp>lincs-moodle-dev.civicactions.net+190225180951+TQm6IR</stamp>
+    <parent>571</parent>
+    <sortorder>999</sortorder>
+    <questions>
+      <question id="2355">
+        <parent>0</parent>
+        <name>Which is a type of accommodation?</name>
+        <questiontext>&lt;p&gt;Which is a type of accommodation?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+190225181243+K1h1pE</stamp>
+        <version>lincs-moodle-dev.civicactions.net+190618201922+n187hz</version>
+        <hidden>0</hidden>
+        <timecreated>1551118363</timecreated>
+        <timemodified>1560889162</timemodified>
+        <createdby>12042</createdby>
+        <modifiedby>12042</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="7299">
+              <answertext>&lt;p&gt;Presentation&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;This answer is incorrect.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7300">
+              <answertext>Response</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>This answer is incorrect.</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7301">
+              <answertext>&lt;p&gt;Scheduling&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;This answer is incorrect.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7302">
+              <answertext>&lt;p&gt;All of the above&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;Great! You are correct. Accommodation types include presentation, response, scheduling.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1291">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2356">
+        <parent>0</parent>
+        <name>Response accommodations allow an individual equal opportunity to demonstrate knowledge by using alternate forms of response.</name>
+        <questiontext>&lt;p&gt;Response accommodations allow an individual equal opportunity to demonstrate knowledge by using alternate forms of response.&lt;br&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+190225182915+VIZjvr</stamp>
+        <version>lincs-moodle-dev.civicactions.net+190618201941+Z8BJH1</version>
+        <hidden>0</hidden>
+        <timecreated>1551119355</timecreated>
+        <timemodified>1560889181</timemodified>
+        <createdby>12042</createdby>
+        <modifiedby>12042</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="7303">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;&lt;/p&gt;&lt;p&gt;Response accommodations allow an individual equal opportunity to
+demonstrate knowledge by using alternative forms of response.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7304">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;This answer is incorrect.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="254">
+            <trueanswer>7303</trueanswer>
+            <falseanswer>7304</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2357">
+        <parent>0</parent>
+        <name>What is a key feature of an accommodation?</name>
+        <questiontext>&lt;p&gt;&lt;/p&gt;&lt;p&gt;What is a key feature of an accommodation?&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+190225194443+7bOvFT</stamp>
+        <version>lincs-moodle-dev.civicactions.net+190618202002+ExrGyE</version>
+        <hidden>0</hidden>
+        <timecreated>1551123883</timecreated>
+        <timemodified>1560889202</timemodified>
+        <createdby>12042</createdby>
+        <modifiedby>12042</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="7305">
+              <answertext>It is provided for free.</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>This answer is incorrect.</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7306">
+              <answertext>It is only available for physical disabilities.</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>This answer is incorrect.</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7307">
+              <answertext>It will not change the&amp;nbsp; validity of the test.</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>Correct.&amp;nbsp; A
+key feature of an accommodation is that the accommodation will not change the
+validity of the test.</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7308">
+              <answertext>It has a general set up for everyone</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>This answer is incorrect.</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1292">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2358">
+        <parent>0</parent>
+        <name>Which type of accommodation may utilize e-Text?</name>
+        <questiontext>&lt;p&gt;&lt;p&gt;Which type of accommodation may utilize
+e-Text?&lt;/p&gt;&lt;br&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+190225194729+l2zG5h</stamp>
+        <version>lincs-moodle-dev.civicactions.net+190618202042+czpVQv</version>
+        <hidden>0</hidden>
+        <timecreated>1551124049</timecreated>
+        <timemodified>1560889242</timemodified>
+        <createdby>12042</createdby>
+        <modifiedby>12042</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="7309">
+              <answertext>Presentation</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>Correct. Presentation accommodations may utilize e-text.</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7310">
+              <answertext>Setting</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>This answer is incorrect.</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7311">
+              <answertext>Response</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>This answer is incorrect.</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7312">
+              <answertext>Both a and c</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>This answer is incorrect.</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1293">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2359">
+        <parent>0</parent>
+        <name>Allowing the student to sit in a different location is an example of setting accommodations.</name>
+        <questiontext>&lt;p&gt;Allowing
+the student to sit in a different location is an example of setting
+accommodations.&lt;br&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+190225194838+or0K2q</stamp>
+        <version>lincs-moodle-dev.civicactions.net+190618202056+daDwrV</version>
+        <hidden>0</hidden>
+        <timecreated>1551124118</timecreated>
+        <timemodified>1560889256</timemodified>
+        <createdby>12042</createdby>
+        <modifiedby>12042</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="7313">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;Correct.&amp;nbsp;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7314">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;This answer is incorrect.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="255">
+            <trueanswer>7313</trueanswer>
+            <falseanswer>7314</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2360">
+        <parent>0</parent>
+        <name>Which is the correct sequence for accessing accommodations?</name>
+        <questiontext>&lt;p&gt;&lt;p&gt;Which is the correct sequence for accessing
+accommodations?&lt;/p&gt;&lt;br&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+190225195235+pzTgGl</stamp>
+        <version>lincs-moodle-dev.civicactions.net+190618202140+LwjONL</version>
+        <hidden>0</hidden>
+        <timecreated>1551124355</timecreated>
+        <timemodified>1560889300</timemodified>
+        <createdby>12042</createdby>
+        <modifiedby>12042</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="7315">
+              <answertext>Self-determination, self-advocacy, self-disclosure</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>This answer is incorrect.</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7316">
+              <answertext>Self-advocacy, self-disclosure, self-determination</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>This answer is incorrect.</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7317">
+              <answertext>Self-determination, self-disclosure,&amp;nbsp; self-advocacy</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>Correct.&amp;nbsp;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7318">
+              <answertext>None of these</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>This answer is incorrect.</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1294">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+    </questions>
+  </question_category>
+  <question_category id="574">
+    <name>top</name>
+    <contextid>35850</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>8469</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>courses.lincs.ed.gov+190809151544+I00CMk</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <questions>
+    </questions>
+  </question_category>
 </question_categories>

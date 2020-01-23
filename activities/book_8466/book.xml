@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="203" moduleid="8466" modulename="book" contextid="35847">
+  <book id="203">
+    <name>Setting Accommodations</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <numbering>1</numbering>
+    <navstyle>1</navstyle>
+    <customtitles>0</customtitles>
+    <timecreated>1551114371</timecreated>
+    <timemodified>1551114371</timemodified>
+    <chapters>
+      <chapter id="1357">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Categories of setting accommodations</title>
+        <content>&lt;p&gt;&lt;/p&gt;&lt;p&gt;The fourth accommodation we will discuss is setting. Setting
+accommodations refer to changes to the location in which a student receives
+instruction or takes a test. Setting accommodations may also mean modifying the
+conditions of an instructional or testing setting.&amp;nbsp; &lt;/p&gt;
+
+&lt;p&gt;Setting accommodations benefit students who are easily
+distracted or who concentrate best in small group or individual settings. A
+setting accommodation may reduce distractions by allowing a student to do
+individual work in a different location, usually in a place with few or no
+other students. &lt;/p&gt;
+
+&lt;p&gt;There are
+four general categories of setting accommodations that allow the student to
+focus better on classroom tasks and tests:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Moving the student to a different seat within in
+the classroom;&lt;/li&gt;&lt;li&gt;Moving the student to a private room &lt;/li&gt;&lt;li&gt;Moving the student to a quiet room, or &lt;/li&gt;&lt;li&gt;Allowing the student to participate in a small
+group setting. &lt;/li&gt;&lt;/ol&gt;&lt;!--[if !supportLists]--&gt;&lt;p&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p&gt;Students
+who might perform better when they can read aloud or make noises that distract
+other students may benefit from the occasional use of individual learning
+settings.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1551244264</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1358">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Examples of setting accommodations</title>
+        <content>&lt;p&gt;&lt;/p&gt;&lt;p&gt;Consider Derek,
+an adult learner who can be easily distracted in a classroom environment if he
+is sitting near doors, windows, etc. Derek finds it easier to concentrate if he
+is sitting in a physically enclosed space with little visual stimuli. He
+operates most effectively if no other individuals are present in the room. &lt;/p&gt;&lt;img src="@@PLUGINFILE@@/Pic_man%20studying%202.jpg" alt="A young man struggles to study because of auditory distractions." width="2449" height="1632" style="max-width:100%; height:auto;" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Photo Copyright: Andriy Popov, licensed through 123rf subscription service&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1551297814</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+    <chaptertags>
+    </chaptertags>
+  </book>
+</activity>

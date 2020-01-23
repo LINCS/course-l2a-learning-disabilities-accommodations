@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<course id="3" contextid="28">
-  <shortname>L2A: Disabilities and Accommodations </shortname>
+<course id="238" contextid="35836">
+  <shortname>L2A: Accommodations</shortname>
   <fullname>L2A: Learning Disabilities and Accommodations</fullname>
   <idnumber></idnumber>
-  <summary>&lt;p&gt;In this course, you will learn the definition of accommodations, identify different types of accommodations, describe how to access accommodations, and understand the importance of Universal Design&lt;/p&gt;
-&lt;p&gt;This course takes approximately 1 hour to complete.&lt;/p&gt;
-&lt;p&gt;---&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Please Note:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;This course contains Adobe Flash content. To view the content, you must have the Adobe Flash Player installed. You can download and install the Flash Player from&lt;/span&gt;&lt;a rel="nofollow" href="http://www.adobe.com/products/flashplayer/"&gt;http://www.adobe.com/products/flashplayer/&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;From our experience, Adobe Flash content is best viewed in the Google Chrome web browser.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;Unfortunately, the Flash Player cannot run on all operating systems. &lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;If you are using an iPad, an iPhone, or an Android device running Android Jelly Bean or later, you may not be able to view the Adobe Flash content, and will need to take the course using a different device.&lt;/span&gt;&lt;/p&gt;</summary>
+  <summary>&lt;p&gt;Thank you for enrolling in the Learning to Achieve: Accommodations self-paced online course.&lt;br&gt;&lt;/p&gt;</summary>
   <summaryformat>1</summaryformat>
-  <format>topics</format>
+  <format>topcoll</format>
   <showgrades>1</showgrades>
-  <newsitems>0</newsitems>
-  <startdate>1367640000</startdate>
+  <newsitems>5</newsitems>
+  <startdate>1565755200</startdate>
+  <enddate>0</enddate>
   <marker>0</marker>
-  <maxbytes>20971520</maxbytes>
+  <maxbytes>0</maxbytes>
   <legacyfiles>0</legacyfiles>
   <showreports>0</showreports>
   <visible>1</visible>
@@ -22,16 +20,34 @@
   <defaultgroupingid>0</defaultgroupingid>
   <lang>en_us</lang>
   <theme></theme>
-  <timecreated>1367606800</timecreated>
-  <timemodified>1387549540</timemodified>
+  <timecreated>1550851651</timecreated>
+  <timemodified>1565882586</timemodified>
   <requested>0</requested>
   <enablecompletion>1</enablecompletion>
   <completionnotify>0</completionnotify>
   <numsections>1</numsections>
   <hiddensections>0</hiddensections>
-  <coursedisplay>0</coursedisplay>
+  <displayinstructions>2</displayinstructions>
+  <layoutelement>1</layoutelement>
+  <layoutstructure>1</layoutstructure>
+  <layoutcolumns>1</layoutcolumns>
+  <layoutcolumnorientation>2</layoutcolumnorientation>
+  <togglealignment>2</togglealignment>
+  <toggleiconposition>1</toggleiconposition>
+  <toggleiconset>arrow</toggleiconset>
+  <onesection>1</onesection>
+  <toggleallhover>2</toggleallhover>
+  <toggleforegroundcolour>000000</toggleforegroundcolour>
+  <toggleforegroundopacity>1.0</toggleforegroundopacity>
+  <toggleforegroundhovercolour>888888</toggleforegroundhovercolour>
+  <toggleforegroundhoveropacity>1.0</toggleforegroundhoveropacity>
+  <togglebackgroundcolour>e2e2f2</togglebackgroundcolour>
+  <togglebackgroundopacity>1.0</togglebackgroundopacity>
+  <togglebackgroundhovercolour>eeeeff</togglebackgroundhovercolour>
+  <togglebackgroundhoveropacity>1.0</togglebackgroundhoveropacity>
+  <showsectionsummary>1</showsectionsummary>
   <category id="2">
-    <name>Learning Disabilities</name>
+    <name>Disabilities and Equitable Outcomes</name>
     <description></description>
   </category>
   <tags>
